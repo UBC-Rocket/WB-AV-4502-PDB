@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : S1M.LibPkg
+
+Section : C:\Users\malco\Documents\School\ELEC 391\WB-AV-Power\S1M.lia
+    Section : PCB Library - S1M.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token S1M On Line 123
+            Warning - 1 : Skipping Token attachedSymbol On Line 174
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*DIOM5227X270N][Primary] associated with PCAD Component [S1M] has been renamed to PCB FootPrint [*DIOM5227X270N_S1M(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - S1M.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 97
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 112
+        EndSection
+
+        Section : Generating SCH Library - S1M.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*DIOM5227X270N][Primary] associated with PCAD Component [S1M] has been renamed to PCB FootPrint [*DIOM5227X270N_S1M(Primary)].
+        EndSection
+    EndSection
+EndSection

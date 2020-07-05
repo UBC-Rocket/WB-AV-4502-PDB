@@ -1,0 +1,9 @@
+Added Component: Designator=L?(*IND_HC1-7R8-R)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "513-1159-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/eaton-electronics-division/HC1-7R8-R/513-1159-1-ND/754657?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC1-7R8-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HC1-7R8-R/Eaton/view-part/565774/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Regulators1 Member=Component L? HC1-7R8-R

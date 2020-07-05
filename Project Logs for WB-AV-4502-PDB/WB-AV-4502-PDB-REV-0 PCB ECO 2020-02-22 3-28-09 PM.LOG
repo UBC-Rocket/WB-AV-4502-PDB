@@ -1,0 +1,25 @@
+Change Component Description : Designator=L3 Old Description=7.8µH Unshielded Wirewound Inductor 12.79A 5.7mOhm Max Nonstandard New Description=
+7.8µH Unshielded Wirewound Inductor 12.79A 5.7mOhm Max Nonstandard
+
+Added Component: Designator=L?(WE-HCI-1890)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/7443556560.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 3, Nov-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "5.60 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Inductor, 2-Leads, Body 18.3 x 18.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-HCI-1890"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Added Component: Designator=L?(WE-HCI-1890)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/74435572200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2, Nov-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Inductor, 2-Leads, Body 18.3 x 18.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-HCI-1890"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Regulators1 Member=Component L? 7443556560
+Added Member To Class: ClassName=Regulators1 Member=Component L? 74435572200

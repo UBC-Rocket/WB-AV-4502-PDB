@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=Vin Pin=P?-6
+Added Pin To Net: NetName=Vin Pin=P?-7
+Added Pin To Net: NetName=Vin Pin=P?-8
+Added Pin To Net: NetName=Vin Pin=P?-9
+Added Member To Class: ClassName=Regulators1 Member=Component P? Header 9

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=Vin1-2
+Removed Member From Class: ClassName=Regulators Member=Vin1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC1_2 Pin=C6-1
+Added Pin To Net: NetName=NetC1_2 Pin=C7-1
+Added Pin To Net: NetName=NetC1_2 Pin=C8-2
+Added Pin To Net: NetName=NetC1_2 Pin=C9-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q3-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q4-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Added Pin To Net: NetName=NetC1_2 Pin=U3-1
+Added Pin To Net: NetName=NetC1_2 Pin=U3-14
+Added Pin To Net: NetName=NetC1_2 Pin=U3-22
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Vin
+Added Member To Class: ClassName=Shore Power Member=Component C? Cap Semi
+Added Member To Class: ClassName=Shore Power Member=Component C? Cap Semi
+Added Member To Class: ClassName=Shore Power Member=Component C? Cap Semi
+Added Member To Class: ClassName=Shore Power Member=Component D? Diode
+Added Member To Class: ClassName=Shore Power Member=Component D? SMAJ24CA-E3/61
+Added Member To Class: ClassName=Shore Power Member=Component D? Diode
+Added Member To Class: ClassName=Shore Power Member=Component Q? MOC207M
+Added Member To Class: ClassName=Shore Power Member=Component Q? BSC028N06NSTATMA1
+Added Member To Class: ClassName=Shore Power Member=Component Q? BSC028N06NSTATMA1
+Added Member To Class: ClassName=Shore Power Member=Component Q? BSC028N06NSTATMA1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component R? Res1
+Added Member To Class: ClassName=Shore Power Member=Component U? Part Number: LTC4359IMS8#PBF

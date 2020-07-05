@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Redundant Batteries Member=Q5
+Removed Member From Class: ClassName=Redundant Batteries Member=Q6
+Removed Member From Class: ClassName=Redundant Batteries Member=R3
+Removed Member From Class: ClassName=Redundant Batteries Member=R4
+Added Member To Class: ClassName=Regulators Member=Component C16 Cap
+Added Member To Class: ClassName=Regulators Member=Component C17 Cap
+Added Member To Class: ClassName=Redundant Batteries Member=Component Q1 FDMS86101A
+Added Member To Class: ClassName=Redundant Batteries Member=Component Q2 FDMS86101A

@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : HC1-7R8-R.LibPkg
+
+Section : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4502-WB-AV-Power\WB-AV-Power\Libraries\HC1-7R8-R\HC1-7R8-R.lia
+    Section : PCB Library - HC1-7R8-R.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token IND On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - HC1-7R8-R.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - HC1-7R8-R.SchLib
+        EndSection
+    EndSection
+EndSection

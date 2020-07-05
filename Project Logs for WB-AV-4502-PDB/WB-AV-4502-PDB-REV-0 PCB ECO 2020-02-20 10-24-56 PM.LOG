@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Vin Pin=Q2-1
+Removed Pin From Net: NetName=Vin Pin=Q2-1
+Removed Pin From Net: NetName=Vin Pin=Q2-1
+Removed Pin From Net: NetName=SW1 Pin=Q2-3
+Removed Pin From Net: NetName=SW1 Pin=Q2-3
+Removed Pin From Net: NetName=SW1 Pin=Q2-3
+Removed Pin From Net: NetName=SW1 Pin=Q2-3
+Removed Member From Class: ClassName=Regulators1 Member=Q2

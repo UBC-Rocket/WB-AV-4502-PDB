@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=P? Old Footprint=PCBComponent_1 New Footprint=CONN_3-338168-2
+Change Component Footprint: Designator=P? Old Footprint=PCBComponent_1 New Footprint=TECO-1734351-2_V
+Change Component Comment : Designator=P? Old Comment=Header 6 New Comment=1734351-2
+Change Component Comment : Designator=P? Old Comment=Header 6 New Comment=Header 9
+Change Managed Component Library Link : Designator=P? Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DEFF9659-18BF-4C7D-A81D-2F975CBCA4ED Old RevisionGUID= New RevisionGUID=84618B76-5F58-4021-BD5E-624D307A1C02
+Change component parameters: Designator = "P?" ("P?"); Footprint = "PCBComponent_1"; UniqueID = "\GMQXDUWA" ("\GMQXDUWA")
+Change component parameters (AddParameter): Name = "Catalog Drawings"; Value = "AMPD-SubMale.318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Style"; Value = "D-Sub"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Plug,MalePins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish Thickness"; Value = "15µin(0.38µm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Signal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25605/0900766b80f99384-25605515.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. A1, 03/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dynamic Catalog"; Value = "AMPLIMITEHD-20Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "D-SubConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "AMPLIMITED-SubminiatureConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "BoardLock,GroundingIndents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flange Feature"; Value = "MatingSide;FemaleScrewlock(4-40)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "PolybutyleneTerephthalate(PBT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Products"; Value = "5746861-4-ND
+-CONNRECEPT9POSGOLDIDC
+AFL09B-ND
+-CONND-SUBRECEPT9POS30GOLD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C~105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "A35106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male D-Sub Connector, Pitch 2.77 mm, 9 Position, Height 12.75 mm, Tail Length 3.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1734351-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Training Modules"; Value = "AMPLIMITED-SubConnectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Information"; Value = "1734351-2StatementofCompliance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "AMPLIMITEHD-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shell Material, Finish"; Value = "Steel,NickelPlated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shell Size, Connector Layout"; Value = "1(DE,E)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "90"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Regulators1 Member=Component P? 1734351-2
+Added Member To Class: ClassName=Regulators1 Member=Component P? Header 2
+Added Member To Class: ClassName=Regulators1 Member=Component P? Header 9
+Added Member To Class: ClassName=Regulators1 Member=Component P? Header 5

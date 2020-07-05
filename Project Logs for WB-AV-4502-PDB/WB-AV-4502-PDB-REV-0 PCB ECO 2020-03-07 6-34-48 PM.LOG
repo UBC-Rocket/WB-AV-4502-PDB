@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=P1-11
+Removed Pin From Net: NetName=VOUT1 Pin=P2-1
+Removed Pin From Net: NetName=VOUT2 Pin=P3-2
+Removed Pin From Net: NetName=VOUT1 Pin=P4-1
+Removed Pin From Net: NetName=VOUT2 Pin=P5-2
+Added Component: Designator=F1(C1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Thru-Hole; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN-W2/E2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN"; Value = "118-MF-NSML600/6-2TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F2(C1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Thru-Hole; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN-W2/E2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPN"; Value = "118-MF-NSML600/6-2TR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT2 Pin=F1-2
+Added Pin To Net: NetName=VOUT1 Pin=F2-1
+Added Pin To Net: NetName=+5 Pin=F2-2
+Added Pin To Net: NetName=+5 Pin=P2-1
+Added Pin To Net: NetName=+5 Pin=P4-1
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=P3-2
+Added Pin To Net: NetName=+12 Pin=P5-2
+Added Net: Name=+12
+Added Member To Class: ClassName=Regulators1 Member=Component F1 Fuse 1
+Added Member To Class: ClassName=Regulators1 Member=Component F2 Fuse 1
+Change Room Name: Old Name=BMS_REV_A1 New Name=Regulators1
+Change Room Scope: Old Scope=InComponentClass('BMS_REV_A1') New Scope=InComponentClass('Regulators1')

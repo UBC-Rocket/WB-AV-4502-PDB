@@ -1,0 +1,13 @@
+"Bill of Material for "
+"On 10/27/2019 at 2:31:37 PM"
+
+"Comment","Pattern","Quantity","Components"
+
+"BAW56LT3","ONSC-SOT-23-3-318-08_V","1","D3","Dual Switching Diodes, Common Anode, 3-Pin SOT-23, Tape and Reel"
+"Cap Pol1","RB7.6-15","4","C6, C8, C16, C22","Polarized Capacitor (Radial)"
+"Cap","1608[0603]","16","C1, C2, C5, C7, C11, C12, C13, C17, C19A, C19B, C20A, C20B, C25, C26, C27, C34","Capacitor"
+"Diode MBRS140t3","*DIOM5227X270N_S1M(Primary)","2","D4, D5","Schottky Rectifier"
+"Inductor","Inductor","2","L1, L2","Inductor"
+"LM2642MTC/NOPB","MTC28_N","1","U1","Two-Phase Synchronous Step-Down Switching Controller, 28-pin TSSOP, Pb-Free"
+"MOSFET-N","SO8_L","4","Q1, Q2, Q3, Q4","N-Channel MOSFET"
+"Res1","1608[0603]","14","R1, R10, R11, R13, R19, R20, R23A, R23B, R24A, R24B, R27, R28, R32, R33","Resistor"

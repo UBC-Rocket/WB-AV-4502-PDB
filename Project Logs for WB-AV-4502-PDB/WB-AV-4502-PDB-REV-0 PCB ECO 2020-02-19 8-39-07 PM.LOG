@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VOUT2 Pin=L1-A1
+Removed Pin From Net: NetName=SW2 Pin=L1-A2
+Removed Pin From Net: NetName=SW1 Pin=L2-A1
+Removed Pin From Net: NetName=VOUT1 Pin=L2-A2
+Removed Member From Class: ClassName=Regulators1 Member=L1
+Removed Member From Class: ClassName=Regulators1 Member=L2
+Change Component Designator: OldDesignator=L? NewDesignator=L3
+Change Component Designator: OldDesignator=L? NewDesignator=L4
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change component parameters: Designator = "L?" ("L?"); Footprint = "*IND_HC1-7R8-R"; UniqueID = "\RSHFPSDL" ("\RSHFPSDL")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "513-1159-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/eaton-electronics-division/HC1-7R8-R/513-1159-1-ND/754657?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Eaton"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "HC1-7R8-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Nonstandard Eaton"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HC1-7R8-R/Eaton/view-part/565774/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "7.8uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT1 Pin=L3-1
+Added Pin To Net: NetName=SW1 Pin=L3-2
+Added Pin To Net: NetName=VOUT2 Pin=L4-1
+Added Pin To Net: NetName=SW2 Pin=L4-2
+Added Member To Class: ClassName=Regulators1 Member=Component L4 7443551131

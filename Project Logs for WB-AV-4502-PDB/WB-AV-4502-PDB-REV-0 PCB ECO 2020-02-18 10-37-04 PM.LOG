@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=1 Old Footprint=*CONN_282836-2 New Footprint=WM4900-ND
+Change Component Footprint: Designator=2 Old Footprint=*CONN_282836-2 New Footprint=WM4900-ND
+Added Member To Class: ClassName=Regulators1 Member=Component P? Header 9
